@@ -1,0 +1,22 @@
+{
+  "name": "HbrideNativeKit",
+  "version": "0.1.0",
+  "summary": "A short description of HbrideNativeKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wjx1018960145/HbrideNativeKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wjx1018960145": "wjx1018960145@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wjx1018960145/HbrideNativeKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "HbrideNativeKit/Classes/**/*"
+}

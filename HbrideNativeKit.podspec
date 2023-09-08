@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'HbrideNativeKit/Classes/**/*'
-  
+  s.resource     = 'HbrideNativeKit/Classes/JSWebKit/Refresh/*.bundle'
   # s.resource_bundles = {
   #   'HbrideNativeKit' => ['HbrideNativeKit/Assets/*.png']
   # }
