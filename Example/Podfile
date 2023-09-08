@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HbrideNativeKit_Tests' do
+  pod 'HbrideNativeKit', :path => '../'
+  
+  
+end
